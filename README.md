@@ -23,19 +23,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um vídeo de propaganda mostrando uma coleção de estapas de uma marca fictícia para camisas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Copilot](https://www.bing.com/chat?q=Microsoft+Copilot&FORM=hpcodx)**. Para: Criar "estampas" e texto copy;
+- IA Generativa **[ElevenLabs](https://elevenlabs.io/)**. Para: Transformar o texto em áudio;
+- IA Generativa **[D ID](https://www.d-id.com/)**. Para: Dublagem do áudio por avatar;
+- Software de Edição **[Canva](https://www.canva.com/)**. Para: Colocar estampas em fotografias sem direitos autorais e edição de vídeo.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciei pedindo ao Copilot para criar algumas imagens com determinados animais programando.
+Segundo passo foi inventar uma marca fictícia qualquer, para poder fazer o texto em formato de anúncio.
+Em seguida pedi ao Copilot para criar um texto tipo copy para anunciar as camisetas da marca fictícia.
+Com o texto pronto, utilizei a ElevenLabs para transformar o texto em audio.
+Então usando a D ID, usei um avatar que combinasse com o audio para simular a dublagem do anúncio.
+À partir disto, usei o Canva para editar as imagens com as estampas e também o vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um vídeo de anúncio de 1:28 min. que hospedei no meu google drive.
+**[Link do Vídeo](https://drive.google.com/file/d/1XhQFY1_b6ls8x8fEQ8U6MSgEtAaTrzqB/view?usp=drive_link)**
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Na verdade foi muito tranquilo. Eu imaginava que seria muito difícil chegar a um resultado agradável.
+Mas apesar de o vídeo ter ficado bem tosco, eu sei que com mais tempo dedicado eu poderia criar algo
+realmente profissional.
 ```
 
 ### Exemplos e Insigths
