@@ -19,8 +19,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+markdown
+# The Programmer T-shirts!
 
 ## 📒 Descrição
 Um vídeo de propaganda mostrando uma coleção de estapas de uma marca fictícia para camisas.
@@ -48,7 +48,7 @@ O resultado foi um vídeo de anúncio de 1:28 min. que hospedei no meu google dr
 Na verdade foi muito tranquilo. Eu imaginava que seria muito difícil chegar a um resultado agradável.
 Mas apesar de o vídeo ter ficado bem tosco, eu sei que com mais tempo dedicado eu poderia criar algo
 realmente profissional.
-```
+
 
 ### Exemplos e Insigths
 
